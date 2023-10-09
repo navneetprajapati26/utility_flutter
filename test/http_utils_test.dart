@@ -10,15 +10,15 @@ void main() async {
   // Example usages:
   try {
     final post = await apiRepo.get('posts/1');
-    print(post);
+    //print(post);
 
     final newPost = await apiRepo.post('posts', body: {
       'title': 'foo',
       'body': 'bar',
       'userId': 1,
     });
-    print(newPost);
+   // print(newPost);
   } catch (e) {
-    print('Error: $e');
+    //print('Error: $e');
   }
 }
