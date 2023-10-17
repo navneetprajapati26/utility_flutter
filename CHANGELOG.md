@@ -1,4 +1,4 @@
-## 0.0.4-dev.1
+## 0.0.5-dev.1
 
 * Initial pre-release version.
 * Added basic HTTP operations in `HttpOperationsRepository`.

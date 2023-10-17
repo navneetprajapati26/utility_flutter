@@ -1,6 +1,6 @@
 name: utility_flutter
 description: A utility package for common HTTP operations with built-in error handling.
-version: 0.0.4-dev.1
+version: 0.0.5-dev.1
 homepage: https://github.com/navneetprajapati26/utility_flutter
 
 environment:
