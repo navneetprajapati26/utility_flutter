@@ -4,7 +4,7 @@ This package provides a comprehensive utility to handle common *HTTP* and *share
 
 ## 🌟 Features
 
-- ### **HttpUtils**
+### **HttpUtils**
 
 - **Simplified HTTP Requests**: Perform GET, POST, PUT, and DELETE operations with just a few lines of code.
 - **Consistent Base URL**: Define a base URL once and forget about repeating it for every request.
@@ -67,7 +67,7 @@ try {
 - if your API have no need of defaultHeaders or headers, you no need to initializes this .
 
 
-- ### **PreferencesUtils**
+### **PreferencesUtils**
 
 - **Initialize the PreferencesUtils instance** : use in your project .
 
