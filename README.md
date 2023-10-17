@@ -3,7 +3,7 @@
 This package provides a comprehensive utility to handle common *HTTP* and *shared preferences* operations with ease. Built around the `http` and `shared_preferences` package, it integrates seamlessly with Flutter and Dart applications, offering features like setting default headers, configuring request timeouts, and delivering standardized error responses and storing smale variables in device.
 
 
-[![pub package](https://img.shields.io/pub/v/riverpod.svg?label=utility_flutter&color=blue)](https://pub.dev/packages/utility_flutter)
+[![pub package](https://img.shields.io/badge/utility_flutter-0.0.6-blue)](https://pub.dev/packages/utility_flutter)
 
 ## 🌟 Features
 
