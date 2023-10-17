@@ -133,4 +133,3 @@ flutter pub add utility_flutter
 import 'package:utility_flutter/utility_flutter.dart';
 ```
 
-[![GitHub Card](https://github-cards.mverleun.com/demo.svg)](https://github.com/navneetprajapati26)
