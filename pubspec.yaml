@@ -1,16 +1,17 @@
-name: utility_package
+name: utility_flutter
 description: A utility package for common HTTP operations with built-in error handling.
-version: 0.0.1-dev.1
-homepage: https://github.com/navneetprajapati26/utility_package
+version: 0.0.4-dev.1
+homepage: https://github.com/navneetprajapati26/utility_flutter
 
 environment:
-  sdk: '>=3.2.0-40.0.dev <4.0.0'
+  sdk: '>=3.1.0-40.0.dev <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
   http: ^1.1.0
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:

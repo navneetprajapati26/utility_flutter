@@ -1,12 +1,13 @@
-import 'dart:convert';
-import 'package:http/http.dart' as http;
 
-class HttpOperationsRepository {
+
+part of 'utility_flutter.dart';
+
+class HttpUtils {
   final String baseUrl;
   final Map<String, String> defaultHeaders;
   final Duration timeoutDuration;
 
-  HttpOperationsRepository(this.baseUrl,
+  HttpUtils(this.baseUrl,
       {this.defaultHeaders = const {},
       this.timeoutDuration = const Duration(seconds: 10)});
 
